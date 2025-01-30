@@ -14,11 +14,11 @@ Elegua.py is a Python script designed to analyze strings for patterns, randomnes
 
 *Usage*
 
- Step 1 - User Input: The script begins by prompting the user to input a string for analysis.
- Step 2 - Pattern Analysis: Checks for repeating patterns within the input string.
- Step 3 - Entropy Analysis: Computes the overall entropy and block-wise entropies, calculates the normalized entropy, and assesses the randomness.
- Step 4 - Encryption Checks: Performs encryption pattern checks including uniformity scoring and Chi-Square test.
- Step 5 - Visualization: Displays a bar chart of character frequencies.
+ *Step 1 - User Input: The script begins by prompting the user to input a string for analysis.*
+ *Step 2 - Pattern Analysis: Checks for repeating patterns within the input string.*
+ *Step 3 - Entropy Analysis: Computes the overall entropy and block-wise entropies, calculates the normalized entropy, and assesses the randomness.*
+ *Step 4 - Encryption Checks: Performs encryption pattern checks including uniformity scoring and Chi-Square test.*
+ *Step 5 - Visualization: Displays a bar chart of character frequencies.*
 
 To run the script, execute python Elegua.py from the command line and follow the prompts.
 
